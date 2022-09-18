@@ -1,5 +1,5 @@
 ---
-title: "Pigwar's Blog Post"
+title: "My very first post"
 date: 2022-09-18
 ---
 
