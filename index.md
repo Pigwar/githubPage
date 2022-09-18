@@ -1,3 +1,3 @@
 ---
-title: Welcome to Piggot's unbelievable good blog
+title: Welcome to Piggot's unbelievable good blog!
 ---
