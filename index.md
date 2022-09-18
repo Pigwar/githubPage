@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Welcome to Piggot's unbelievable good blog
 ---
-
-## Pigwar's page
